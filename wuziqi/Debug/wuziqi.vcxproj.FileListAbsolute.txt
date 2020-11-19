@@ -1,0 +1,2 @@
+D:\Program Files (x86)\Microsoft Visual Studio\MyProjects\wuziqi\Debug\sanziqi.exe
+D:\Program Files (x86)\Microsoft Visual Studio\MyProjects\wuziqi\Debug\sanziqi.pdb
